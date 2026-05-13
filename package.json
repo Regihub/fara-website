@@ -1,5 +1,5 @@
 {
-  "name": "fara-astro",
+  "name": "fara-website",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
